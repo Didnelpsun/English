@@ -28,6 +28,8 @@
 
 ## L
 
++ valid->licit：
+
 ## M
 
 ## N
@@ -41,6 +43,8 @@
 ## R
 
 ## S
+
++ sad->daunt。
 
 ## T
 
